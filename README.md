@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mohd zaid aka zayn
 - 👀 I’m interested in proggramming and gaming
 - 🌱 I’m currently learning MERN or fullStack web Dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a programmer friend
 - 😄 Pronouns: he/him
 
 <!---
